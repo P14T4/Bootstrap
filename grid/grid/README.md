@@ -32,10 +32,10 @@ practica-bootstrap/
 ![Escritorio](imagenes/escritorio.png)
 
 ### 📱 Tablet (≥768px)
-![Tablet](capturas/tablet.png)
+![Tablet](imagenes/tablet.png)
 
 ### 📲 Móvil (<768px)
-![Móvil](capturas/movil.png)
+![Móvil](imagenes/movil.png)
 
 
 ## ✅ Características destacadas
